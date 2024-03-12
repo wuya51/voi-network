@@ -1,6 +1,6 @@
 #!/bin/bash
 
-account_addr=""
+account_addr="H6XEIKZBV3YGUJGB7O5X7JR3XETWHRFJI47X2RST3A3BFTLPD2VEUHLA7U"
 docker_swarm_started=0
 voi_home="${HOME}/voi"
 headless_install=0
